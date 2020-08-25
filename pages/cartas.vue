@@ -2,9 +2,6 @@
   <div class="container-fluid">
     <div class="intro-cartas">
       <h1 class="intro-title">Cartas</h1>
-      <h2 class="intro-subtitle">
-        Descrição bacanuda de cartas: Cartas referente ao papapapapapapap ipsum ipsum ipsum ipsão pipipi popopo
-      </h2>
       <br>
         <p><a href="https://drive.google.com/open?id=1kN5aW8ijFvIpAcQ3cjsYdfPfjRjFCv5V" target="_blank">Carta ao Coordenador Geral de Relações Estudantis Vicente</a></p>
         <p><a href="https://drive.google.com/open?id=1f7fGyvSfVdM7VWCNQxFyjn-rD36AkCnd" target="_blank">Carta ao Reitor da UFAC</a></p>
